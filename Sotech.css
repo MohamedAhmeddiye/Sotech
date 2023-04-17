@@ -86,7 +86,7 @@ nav ul li {
 
 nav ul li a {
   color:#121819;
-  font-size:300px;
+  font-size:50px;
   text-decoration: none;
   border-top: 1px solid #1353ef;
   border-bottom: 1px solid #5676e3;
@@ -144,7 +144,7 @@ nav ul li a:hover {
   border-right:3px solid #5676e3 ;
   
   font-family: 'Ubuntu', sans-serif;
-  font-size: 125px;
+  font-size: 80px;
   font-weight: bold;
   color: #d6d1d1;
   text-align: center;
@@ -281,12 +281,12 @@ footer {
      }
 	nav ul li a {
 	 color:#121819;
-         font-size:140px;
+         font-size:10px;
          text-decoration: none;
       
 	}
 		.logo{
-			font-size:110px;
+			font-size:15px;
 		}
 	
     .header p{
