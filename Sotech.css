@@ -86,7 +86,7 @@ nav ul li {
 
 nav ul li a {
   color:#121819;
-  font-size:140px;
+  font-size:300px;
   text-decoration: none;
   border-top: 1px solid #1353ef;
   border-bottom: 1px solid #5676e3;
@@ -280,9 +280,9 @@ footer {
      margin-top:0px;
      }
 	nav ul li a {
-	    color:#121819;
-      font-size:140px;
-      text-decoration: none;
+	 color:#121819;
+         font-size:140px;
+         text-decoration: none;
       
 	}
 		.logo{
@@ -317,7 +317,7 @@ footer {
       } 
  nav ul li a {
      color:#121819;
-     font-size:2px;
+     font-size:150px;
      text-decoration: none;
      
  }
